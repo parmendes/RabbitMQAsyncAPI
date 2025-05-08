@@ -1,8 +1,7 @@
-# Ignorar arquivos de log
+bin/
+obj/
+*.user
+*.suo
+.vscode/
 *.log
-
-# Ignorar diretórios de build
-/build/
-
-# Ignorar arquivos temporários
-*.tmp
+.env
